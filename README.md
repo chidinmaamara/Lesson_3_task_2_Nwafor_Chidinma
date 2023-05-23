@@ -1,27 +1,29 @@
-live server: https://chidinmaamara.github.io/Lesson_3_task_2_Nwafor_Chidinma/
+# TASK 2 OF LESSON 3
 
-##How to run/test this project
+## How to run/test this project
 
-##ensure you have git installed properly on your machine
+* ensure you have git installed properly on your machine
 
-##ensure you have node js installed in your machine
+* ensure you have node js installed in your machine
 
-##open your terminal and run "git clone "
+* open your terminal and run `git clone https://github.com/chidinmaamara/Lesson_3_task_2_Nwafor_Chidinma.git`
 
-##run "npm install"
+* run "npm install"
 
-##run "npm run lint:all" to run all lint error, "npm run lint:css" for css error check and "npm run lint:html" for html error check
+* run "npm run lint:all" to run all lint error, "npm run lint:css" for css error check and "npm run lint:html" for html error check
 
-##Acknowledgement
+## Acknowledgement
 
-##Mr Tony Dilibe
+* Mr Tony Dilibe
 
-##Mrs Ngozi
+* Mrs Ngozi
 
-##Mr Ekene
+* Mr Ekene
 
-##Mr Johnson Promise (JP)
+* Mr Johnson Promise (JP)
 
-##Mr Patrick
+* Mr Patrick
 
-##This is a work of LM TechHub.
+[VIEW LIVE SITE](https://chidinmaamara.github.io/Lesson_3_task_2_Nwafor_Chidinma/)
+
+## This is a work of LM TechHub.
