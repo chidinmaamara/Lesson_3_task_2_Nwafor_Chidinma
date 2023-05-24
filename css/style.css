@@ -55,7 +55,7 @@ table {
 	min-height: 100vh;
 	display: flex;
 	flex-direction: column;
-	background-color: green;
+	/* background-color: green; */
 }
 
 header{
@@ -82,8 +82,8 @@ header .image{
 }
 
 header nav{
-	/* background-color: green; */
-	/* flex: 1; */
+	 background-color: green; 
+	flex: 1;
 	justify-self: flex-end;
 	display: none;
 	align-items: center;
@@ -115,14 +115,14 @@ header h1{
 .main{
 	 background-color: rgb(247, 242, 242); 
 	 flex: 1;
-	 padding: 20px;
+	 padding: 30px;
 }
 
 .aside{
 	background-color: #d3dcd3;
 	 width: 100%; 
 	flex: 1;
-	padding: 10px;
+	padding: 30px;
 }
 
 footer{
@@ -159,7 +159,7 @@ color: white;
 		flex: 1;
 	}
 
-	/* section{
+	 section{
 		padding: 35px;
 		display: flex;
 		flex-direction: row;

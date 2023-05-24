@@ -1,4 +1,4 @@
-# TASK 2 OF LESSON 3
+# TASK 4 OF LESSON 3
 
 ## How to run/test this project
 
@@ -6,7 +6,7 @@
 
 * ensure you have node js installed in your machine
 
-* open your terminal and run `git clone https://github.com/chidinmaamara/Lesson_3_task_2_Nwafor_Chidinma.git`
+* open your terminal and run `git clone https://github.com/chidinmaamara/Lesson_3_task_4_Nwafor_Chidinma.git`
 
 * run "npm install"
 
@@ -24,6 +24,6 @@
 
 * Mr Patrick
 
-[VIEW LIVE SITE](https://chidinmaamara.github.io/Lesson_3_task_2_Nwafor_Chidinma/)
+[VIEW LIVE SITE](https://chidinmaamara.github.io/Lesson_3_task_4_Nwafor_Chidinma/)
 
 ## This is a work of LM TechHub.
